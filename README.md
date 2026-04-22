@@ -100,9 +100,10 @@ BuyWise solves this by:
 ## 👩‍💻 Developed By
 
 **Team Aikyam**
-Tanishka Ghadge
-Pranali kalase 
-Sanskruti Kapse
+
+##Tanishka Ghadge
+##Pranali kalase 
+##Sanskruti Kapse
 ---
 
 ## 🌟 Conclusion
