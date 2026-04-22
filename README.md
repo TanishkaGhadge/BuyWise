@@ -99,12 +99,13 @@ BuyWise solves this by:
 
 ## 👩‍💻 Developed By
 
-**Team Aikyam** : 
-Tanishka Ghadge
-Pranali kalase 
-Sanskruti Kapse
----
+**Team Aikyam**
 
+- Tanishka Ghadge  
+- Pranali Kalase  
+- Sanskruti Kapse  
+
+---
 ## 🌟 Conclusion
 
 BuyWise is not just a shopping platform — it’s a **decision-making assistant** that empowers users to shop smarter, faster, and better.
